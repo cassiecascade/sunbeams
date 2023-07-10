@@ -36,7 +36,7 @@
     "nest-commander": "^3.11.0"
   },
   "devDependencies": {
-    "@cascadeplus/cascade": "^1.0.0",
+    "@cascadeplus/cascade": "^1.1.0",
     "@types/jest": "^29.5.2",
     "jest": "^29.5.0",
     "ts-jest": "^29.1.0",
